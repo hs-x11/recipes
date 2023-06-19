@@ -17,15 +17,17 @@ body {
 }
 
 h1 {
-    color: #b57e2d;
-    font-size: 50px;
+    color: #070400;
+    font-size: 20vw;
     font-family: 'Fjalla One', sans-serif;
-    text-shadow:  2px 2px #fefefd;
+    background-color: #CFC4BF;
+    mix-blend-mode: screen;
+    padding: 20px;
 }
 
 h2 {
-    color: #fefae0;
+    color: rgba(244, 225, 225, 0.4);
     font-family: 'Satisfy', cursive;
     font-size: 35px;
-    text-shadow:  3px 3px #283618;
+    
 }

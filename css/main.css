@@ -18,7 +18,7 @@ body {
     align-items: center;
     height: 5%;
     width: 100%;
-    background-color: #dda15e;
+    background-color: #251D11;
     min-height: 32px;
     min-width: auto;
 }
@@ -47,18 +47,18 @@ body {
 }
 
 .nav-links > li > a:hover {
-    color: #bc6c25;
+    color: #CFC4BF;
 }
 
 .nav-links > li > a.active {
-    color: #606c38;
+    color: #CFC4BF;
 }
 
 footer {
     text-align: center;
     font-size: 15px;
     padding: 3px;
-    background-color: #dda15e;
+    background-color: #251D11;
     color: white;
     margin-top: auto;
   }
