@@ -1,0 +1,23 @@
+
+
+h1 {
+    padding: 2%;
+    text-align: center;
+}
+
+.pb-img {
+    height: auto;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main-text {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
